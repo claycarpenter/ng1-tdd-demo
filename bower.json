@@ -1,0 +1,18 @@
+{
+  "name": "ng1-tdd-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Clay Carpenter <claycarpenter@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/claycarpenter/ng1-tdd-demo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
