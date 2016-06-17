@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/claycarpenter/ng1-tdd-demo/issues"
   },
-  "homepage": "https://github.com/claycarpenter/ng1-tdd-demo#readme"
+  "homepage": "https://github.com/claycarpenter/ng1-tdd-demo#readme",
+  "devDependencies": {
+    "karma": "^0.13.22",
+    "karma-mocha": "^1.0.1",
+    "karma-mocha-reporter": "^2.0.4",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "mocha": "^2.5.3",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
 }

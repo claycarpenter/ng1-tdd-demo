@@ -2,10 +2,10 @@
 (function() {
   'use strict';
 
-  describe('The address book app', () => {
-    it('should work', () => {
+  describe('The address book app', function() {
+    it('should work', function() {
       chai.assert.isArray([]);
     });
   });
-  
+
 }());
