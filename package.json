@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/claycarpenter/ng1-tdd-demo#readme",
   "devDependencies": {
+    "cors": "^2.7.1",
     "express": "^4.14.0",
     "gulp-live-server": "0.0.30",
     "karma": "^0.13.22",

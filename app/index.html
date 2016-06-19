@@ -6,7 +6,12 @@
   </head>
   <body ng-app="AddressBook">
     <h1>Demo</h1>
+    <div ng-controller="ContactController">
+      <ul>
+        <li ng-repeat="contact in contacts">{{contact.name}}</li>
+      </ul>
+    </div>
     <script src="bower_components/angular/angular.js"></script>
-    <script src="main.js"></script>  
+    <script src="main.js"></script>
   </body>
 </html>
