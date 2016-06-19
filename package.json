@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/claycarpenter/ng1-tdd-demo#readme",
   "devDependencies": {
+    "express": "^4.14.0",
+    "gulp-live-server": "0.0.30",
     "karma": "^0.13.22",
     "karma-mocha": "^1.0.1",
     "karma-mocha-reporter": "^2.0.4",
